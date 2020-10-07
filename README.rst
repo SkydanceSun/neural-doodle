@@ -1,3 +1,5 @@
+(This is a fork of https://github.com/alexjc/neural-doodle , kept for reference)
+
 Neural Doodle
 =============
 
